@@ -1,0 +1,35 @@
+.weather-table-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weather-table {
+  display: table;
+  width: 45%;
+  border-collapse: collapse;
+}
+
+.weather-row {
+  display: table-row;
+}
+
+.weather-cell {
+  display: table-cell;
+  padding: 4px;
+  border-bottom: 1px solid #ffffff;
+}
+
+.header {
+  background-color: #d6f5e0cc;
+  font-weight: bold;
+}
+
+.weather-cell:nth-child(1),
+.weather-cell:nth-child(2) {
+  width: 15%;
+}
+
+.weather-cell:nth-child(3),
+.weather-cell:nth-child(4) {
+  width: 35%;
+}

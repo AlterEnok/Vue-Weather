@@ -1,0 +1,16 @@
+.current-weather {
+  margin-bottom: 10px;
+  text-align: left;
+  margin-left: 5px;
+}
+
+.weather-info {
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.extra-info {
+  font-size: 12px;
+  margin-left: 5px;
+}
+  

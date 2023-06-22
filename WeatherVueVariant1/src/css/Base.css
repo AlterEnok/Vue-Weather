@@ -1,0 +1,23 @@
+#app {
+  text-align: center;
+  padding: 20px;
+  background-color: #e7e681;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+
+.navbar-brand svg {
+  margin-right: 6px;
+}
+
+.nav-link {
+  font-size: 15px;
+}
+
+.my-custom-navbar {
+  color: #0c0a0a;
+}
